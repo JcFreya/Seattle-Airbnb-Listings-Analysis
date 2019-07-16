@@ -24,6 +24,7 @@ This project requires [**Python 3.x**](https://www.python.org/downloads/release/
 - [Pandas](http://pandas.pydata.org)
 - [matplotlib](http://matplotlib.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
+- [plotly](https://plot.ly/python/getting-started/)
 
 You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
 
